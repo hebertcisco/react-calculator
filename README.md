@@ -4,6 +4,9 @@ Calculator with Dracula theme, made in React Native (Expo)
 
 [Download signed APK](https://github.com/tecnobert/react-calculator/releases/download/v0.01/calcdracula-969fe687df5143a18bf44c75108c8474-signed.apk)
 
+Gostou o projeto? Por favor considere <a href="https://github.com/hebertcisco/hebertcisco/blob/main/.github/patreon.md">ser um apoiador</a> e receba brindes exclusivos!
+
+ 
 **Tier:** 1-Beginner
 
 Calculators are not only one of the most useful tools available, but they are
